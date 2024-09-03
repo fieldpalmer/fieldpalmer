@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fieldpalmer
-- 👀 I’m interested in Geography, AR/VR, Blockchain
-- 🌱 I’m currently learning Rust, Unreal Engine, Linux, and Kubernetes
+- I’m Field
+- I’m a JavaScript developer
+- I’m currently working with Google Apps Script, Python, OpenAI, and (as always) React
 
 <!---
 fieldpalmer/fieldpalmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
